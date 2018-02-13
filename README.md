@@ -1,1 +1,1 @@
-# K-means-Clustering-for-S-P500-Companies-
+# K-means-Clustering-for-S-P500-Companies

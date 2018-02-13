@@ -20,7 +20,8 @@ Clustering the S&P500 companies based on thier daily stock prices movement for a
 ## Method
 - K-means clustering. 
   - The number of clusters is chosen to be 10 
-  - Iteratively update the centroids if new points are added to the groups
+  - The outer loop loops for a number of max iterations. The first inner loop assigns each point to a cluster. The 2nd loop re-computes the centroids of the clusters.
+
   
   
 

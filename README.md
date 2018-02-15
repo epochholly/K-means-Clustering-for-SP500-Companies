@@ -1,6 +1,6 @@
 # K-means-Clustering-for-SP500-Companies
 ## Objective
-Clustering the S&P500 companies based on thier daily stock prices movement for a period of time. See if the stocks of companies operating in the same GICS sectors happen to be grouped together.
+Clustering the S&P500 companies based on their daily stock prices movement for a period of time. See if the stocks of companies operating in the same GICS sectors happen to be grouped together.
 
 ## Data
 - S&P500 sectors
